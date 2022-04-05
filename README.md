@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mint Mintra
 
-#### My name is Mintra Ngamjarurn. :school: I graduated with a bachelor's degree in Computer Science from Rajamangala University Of Technology Suvarnabhumi.
+#### My name is Mintra Ngamjaroen. :school: I graduated with a bachelor's degree in Computer Science from Rajamangala University Of Technology Suvarnabhumi.
 ### Connect with me :iphone: :
 * :camera: [Instagram](https://www.instagram.com/usernamemint/?hl=th)
 * :pager: [Twitter](https://twitter.com/usernamemint)
