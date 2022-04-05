@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Mint Mintra
 
-<!--
-**mintmintra/mintmintra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Mintra Ngamjarurn. :school: I graduated with a bachelor's degree in Computer Science from Rajamangala University Of Technology Suvarnabhumi.
+### Connect with me :iphone: :
+* :camera: [Instagram](https://www.instagram.com/usernamemint/?hl=th)
+* :pager: [Twitter](https://twitter.com/usernamemint)
+* :computer: [LinkedIn](https://www.linkedin.com/in/mintra-ngamjarurn-b483b317b/)
+* :newspaper: [Facebook](https://web.facebook.com/usernamemint/)
+* :email: mintrawork1565@gmail.com
+### Motto :hearts:
+> Live as if you were to die tomorrow. Learn as if you were to live forever. :blush:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
